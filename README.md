@@ -14,7 +14,7 @@ Run the script from the command line.
 ```bash
 python potguide_stores_scrapper.py
 ```
-When starting the script, you will have to click on a popup from potguide website before letting the scrapper run by itself
+When starting the script, you will have to click on a popup from potguide website before letting the scrapper run by itself.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
