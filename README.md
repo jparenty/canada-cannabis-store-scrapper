@@ -2,7 +2,7 @@
 
 This python script scrap cannabis stores across all of Canada, 
 
-For now the script only count each store. 
+For now the script only count the number of stores in each Province/Territory. 
 
 You can edit the code to easily scrap details about each store (such as LAT/LONG, is MED/REC, and possible reviews).
 For more details, look for comments in the code.
